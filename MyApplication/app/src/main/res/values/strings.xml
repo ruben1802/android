@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Speedclick</string>
+    <string name="best">BEST TIME: </string>
+    <string name="press">PRESS</string>
+    <string name="ms"> ms</string>
+    <string name="start">START</string>
+</resources>

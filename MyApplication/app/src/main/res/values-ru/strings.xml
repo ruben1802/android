@@ -1,0 +1,5 @@
+<resources>
+    <string name="best">"ЛУЧШЕЕ ВРЕМЯ: "</string>
+    <string name="press">НАЖМИТЕ</string>
+    <string name="ms">" мс"</string>
+</resources>
